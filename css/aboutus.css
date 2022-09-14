@@ -92,7 +92,7 @@ a {
 
 .sec-container img {
   display: inline-block;
-  padding: 31px 0 0px 22px;
+  padding: 31px 0 0px 0;
   font-weight: 700;
 }
 
@@ -196,8 +196,8 @@ a {
 }
 
 .sec-img-card .btn:hover {
-  background-color: #2E2E22;
-  color: #fff;
+  background-color: #fff;
+  color: #2E2E22;
 }
 
 /*sec-clean*/
@@ -430,9 +430,7 @@ font-weight: 700;
   margin-left: 20px;
 }
 
-footer {
-  margin: 80px -4px;
-}
+
 
 /*  Ipad  */
 @media screen and (min-width: 768px) and (max-width: 1180px) {
