@@ -905,6 +905,11 @@ padding: 13.021vw 0vw 0 0;
     padding: 18.281vw 0 0 6.094vw;
   }
 
+  .sec-img-card .img-content .cmn-ttl {
+    font-size: 6.25vw;
+
+}
+
   .sec-img-card .btn {
 
     margin-bottom: 3.125vw;
