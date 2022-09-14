@@ -402,6 +402,7 @@ footer {
 footer .footer-banner {
   padding: 35px 0;
   background-color: #FFFFFF;
+  border-top: 1px solid #354E57;
 }
 
 footer .footer-banner li {
