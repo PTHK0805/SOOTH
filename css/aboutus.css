@@ -198,6 +198,7 @@ a {
 .sec-img-card .btn:hover {
   background-color: #fff;
   color: #2E2E22;
+  border: 1px solid #fff;
 }
 
 /*sec-clean*/
@@ -248,6 +249,7 @@ a {
 .sec-clean .btn:hover {
   background-color: #fff;
   color: #2E2E22;
+  border: 1px solid #fff;
 }
 
 /* third Image Card */
