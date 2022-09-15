@@ -150,8 +150,9 @@ footer .footer .footer-first-row {
   .slick-dots {
     position: absolute;
     bottom: 4.56vw;
-    left: 0.26vw;
+    left: 50%;
     text-align: center;
+    transform: translate(-50%);
   }
 
   .slick-dots li {
@@ -255,7 +256,8 @@ footer .footer .footer-first-row {
   .slick-dots {
     position: absolute;
     bottom: 5.47vw;
-    left: 0.47vw;
+    left: 50%;
+    transform: translate(-50%);
     text-align: center;
   }
 
