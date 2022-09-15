@@ -103,6 +103,8 @@ header a:hover {
 
 .cmn-btn:hover::before {
   background: url(../img/product/img_cart_hover.png);
+  width: 12px;
+  height: 11px;
 }
 
 /* Badge */
@@ -204,6 +206,11 @@ header a:hover {
     height: 1.302vw;
   }
 
+  .cmn-btn:hover::before {
+    width: 1.563vw;
+    height: 1.302vw;
+  }
+
   /* Badge */
   .badge {
     padding: 0.911vw 1.302vw;
@@ -281,6 +288,11 @@ header a:hover {
 
   .cmn-btn::before {
     left: 6.563vw;
+    width: 1.875vw;
+    height: 1.563vw;
+  }
+
+  .cmn-btn:hover::before {
     width: 1.875vw;
     height: 1.563vw;
   }

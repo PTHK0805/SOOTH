@@ -1912,6 +1912,13 @@ header {
     padding-left: 6.25vw;
   }
 
+  .clean-card .img-content p {
+    padding-top: 3.906vw;
+    padding-bottom: 9.062vw;
+    padding-left: 0.312vw;
+    font-size: 2.5vw;
+  }
+
   .clean-card .btn {
     margin-top: 3.906vw;
   }
