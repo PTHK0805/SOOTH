@@ -1,5 +1,3 @@
-
-
 img {
   max-width: 100%;
 }
@@ -66,10 +64,10 @@ a {
 .textstore {
   line-height: 1.7;
   margin: 15px;
+  margin-top: 6px;
   color: #354E57;
   font-size: 48px;
   font-weight: 700;
-  margin-top: 6px;
 }
 
 .textpara {
@@ -136,11 +134,11 @@ a {
 }
 
 .third-center p {
+  line-height: 1.1;
   margin: -9px 7px 5px 23px;
   padding-right: 47px;
   font-size: 13px;
   font-weight: 400;
-  line-height: 1.1;
 }
 
 /*Sec Image Card */
@@ -196,9 +194,9 @@ a {
 }
 
 .sec-img-card .btn:hover {
+  border: 1px solid #fff;
   background-color: #fff;
   color: #2E2E22;
-  border: 1px solid #fff;
 }
 
 /*sec-clean*/
@@ -247,9 +245,9 @@ a {
 }
 
 .sec-clean .btn:hover {
+  border: 1px solid #fff;
   background-color: #fff;
   color: #2E2E22;
-  border: 1px solid #fff;
 }
 
 /* third Image Card */
@@ -294,23 +292,23 @@ a {
 .icon-img img {
   display: block;
   margin-right: auto;
-  margin-left: auto;
   margin-bottom: 12px;
+  margin-left: auto;
 }
 
 .centered {
   margin: 0;
-  text-align: center;
   font-size: 14px;
+  text-align: center;
 }
 
 /*End*/
 
 /* Related Products */
 .instragram-img {
+  margin-bottom: -29px;
   padding-top: 50px;
   padding-left: 88px;
-  margin-bottom: -29px;
 }
 
 .instragram-img ul li {
@@ -360,17 +358,17 @@ a {
 
 .feature-header {
 
-line-height: 1.3;
+  line-height: 1.3;
 
-/*margin: 16px;*/
+  /*margin: 16px;*/
 
-margin: 19px 0 0 14px;
+  margin: 19px 0 0 14px;
 
-color: #354E57;
+  color: #354E57;
 
-font-size: 28px;
+  font-size: 28px;
 
-font-weight: 700;
+  font-weight: 700;
 }
 
 .featurepara {
@@ -424,12 +422,12 @@ font-weight: 700;
 
 .sec-featurepara {
   line-height: 1.5;
+  margin-top: 26px;
+  margin-left: 20px;
   /* margin: 19px 13px; */
   color: #354E57;
   font-size: 16px;
   font-weight: 400;
-  margin-top: 26px;
-  margin-left: 20px;
 }
 
 
@@ -468,9 +466,9 @@ font-weight: 700;
 
   .img-blk {
 
-margin: 4.948vw -1.172vw;
+    margin: 4.948vw -1.172vw;
 
-}
+  }
 
 
   .img-blk img {
@@ -478,13 +476,13 @@ margin: 4.948vw -1.172vw;
   }
 
   .covid {
+    display: inline-block;
     margin: 0.26vw 0vw -0.651vw -1.172vw;
     padding: 0.911vw 1.823vw;
     background-color: #DE5858;
     color: #FFFFFF;
     font-size: 1.563vw;
     font-weight: 400;
-    display: inline-block;
   }
 
   .textstore {
@@ -525,11 +523,11 @@ margin: 4.948vw -1.172vw;
   }
 
   .sectext-block h4 {
-    font-size: 6.25vw;
-    font-weight: 700;
+    line-height: 1.2;
     margin-top: 2.214vw;
     margin-bottom: 1.172vw;
-    line-height: 1.2;
+    font-size: 6.25vw;
+    font-weight: 700;
   }
 
   .sectext-block p {
@@ -628,8 +626,8 @@ margin: 4.948vw -1.172vw;
 
   .centered {
     margin: 0;
-    text-align: center;
     font-size: 2.214vw;
+    text-align: center;
   }
 
   /*End*/
@@ -667,9 +665,9 @@ margin: 4.948vw -1.172vw;
 
   .third-blk {
 
-padding: 13.021vw 0vw 0 0;
+    padding: 13.021vw 0vw 0 0;
 
-}
+  }
 
   .third-blk img {
     width: 86.979vw;
@@ -910,13 +908,23 @@ padding: 13.021vw 0vw 0 0;
   .sec-img-card .img-content .cmn-ttl {
     font-size: 6.25vw;
 
-}
+  }
+
+  .sec-img-card .img-content p {
+    padding-top: 3.906vw;
+    padding-bottom: 8.906vw;
+    padding-left: 0.313vw;
+    font-size: 2.5vw;
+  }
 
   .sec-img-card .btn {
 
     margin-bottom: 3.125vw;
+    width: 23.281vw;
+    padding: 1.563vw 6.25vw;
+    font-size: 2.188vw;
+    transition: .6s;
   }
-
 
   /*sec-clean aboutus-clean*/
   .aboutus-clean {
@@ -948,6 +956,13 @@ padding: 13.021vw 0vw 0 0;
     color: #2E2E22;
     font-size: 2.5vw;
     font-weight: 400;
+  }
+
+  .sec-clean .btn {
+    width: 22.969vw;
+    padding: 1.719vw 5.938vw 0.938vw;
+    border: 0.156vw solid #2E2E22;
+    font-size: 2.188vw;
   }
 
   /*Instragram icon  sec-icon*/
