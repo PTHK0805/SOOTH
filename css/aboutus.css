@@ -821,6 +821,8 @@ a {
     color: #354E57;
     font-size: 7.5vw;
     font-weight: 700;
+    width: 100vw;
+    display: inline-block;
   }
 
   .textpara {
@@ -829,6 +831,8 @@ a {
     color: #354E57;
     font-size: 2.5vw;
     font-weight: 400;
+    width: 100vw;
+    display: inline-block;
   }
 
 
@@ -948,7 +952,7 @@ a {
   }
 
   .sec-clean .clean-content p {
-    width: 154.688vw;
+    width: 80.688vw;
     line-height: 1.5;
     margin: -1.25vw 0 1.719vw 0.469vw;
     /*padding-bottom: 10.469vw;
