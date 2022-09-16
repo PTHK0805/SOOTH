@@ -994,6 +994,10 @@ a {
     margin-right: 9.375vw;
   }
 
+  .instragram-img ul li:nth-of-type(2n) {
+    margin-right: 0;
+  }
+
   .instragram-img ul li:last-child {
     margin-right: 0;
   }
